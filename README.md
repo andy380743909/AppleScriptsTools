@@ -8,3 +8,5 @@ An AppleScript app that can add into the Finder Toolbar, when we open a Finder w
 this icon in the Finder toolbar, it will open a new iTerm2 window and pushd the directory.
 
 HowTo: http://www.tuicool.com/articles/MbaQNv
+
+iTerm2 Docs: https://iterm2.com/documentation-scripting.html
