@@ -7,4 +7,4 @@ This is a project to collect some useful AppleScripts which can make better life
 A Apple Script app that can add into the Finder Toolbar, when we open a Finder window and locate to a directory, click
 this icon in the Finder toolbar, it will open a new iTerm2 window and pushd the directory.
 
-How To: http://www.tuicool.com/articles/MbaQNv
+HowTo: http://www.tuicool.com/articles/MbaQNv
